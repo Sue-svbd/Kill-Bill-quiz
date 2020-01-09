@@ -1,0 +1,28 @@
+.body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqaqegxwf3U0VsKrrBzX7hRWXWXktpS0kUDm2_yprqYW3ZGlJTdg&s")
+  background-size: cover;
+}
+
+.topcontainer {
+  border-radius: 25px;
+}
+
+.quiz {
+  background: white;
+}
+
+.quiz-form {
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpceDcypnoOyv8xaJMMeGsUaPnQdTymo-EWjq6srrbyVt_TM1B&s"); */
+  background-size: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  font-family: sans-serif, Avantgarde;
+  padding: 3px;
+}
+.question {
+  font-family: sans-serif, Avantgarde;
+  font-weight: 900;
+  font-variant: small-caps;
+}
